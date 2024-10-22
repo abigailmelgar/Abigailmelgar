@@ -1,16 +1,30 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
 
-<!--
-**abigailmelgar/Abigailmelgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>viajes o lugares </title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
 
-Here are some ideas to get you started:
+<body>
+<main>
+ <h1>Viajes que me gustaría hacer</h1>
+  <p>Lugares que me gustaria visitar</P>
+  <lo>
+  <li>China</li>
+  <li>El tunco</li>
+  <li>París</li>
+  <li>Disneyland</li>
+    <figure>
+      <img src="lugares/abi.jpeg"alt="lugares">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      <a href="https://disneyland.disney.go.com/destinations/disneyland/?CMP=OKC-330339_GM_DLR_destination_disneylandpark_NA">OKC-330339_GM_DLR_destination_disneylandpark_NA</a>
+      <a href="https://meliagentedisney.com/wp-content/uploads/2023/02/disneyland-california.webp"><img src="lugares/Disney.jpeg"alt="Disney"></a>
+    </figure>
+  </lo>
+  </main>
+  <footer>Copyright colleen van lent</footer>
+  <script src="script.js"></script>
+</body>
